@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "79545956-b1cf-9905-174e-1e9690dee458",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "mask texture (6)",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

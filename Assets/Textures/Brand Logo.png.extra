@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "4bd6966a-3cfa-4be0-5159-8c15677838c8",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Brand Logo",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "resourceFilePath": "C:\\Users\\user\\Desktop\\Higienol Filter\\FIC-PH-Higienol-PRM-DH-30m-x4_Id23_AR-para-Ar-2-1024x947.png",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]

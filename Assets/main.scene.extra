@@ -1,0 +1,423 @@
+[
+  {
+    "guid": {
+      "a": "7cae8935-2e1d-d0c3-363f-f2af82ce9769",
+      "b": ""
+    },
+    "objGuid": "Guid(16379333316545502678, 15260910388274781568)",
+    "extraType": "Entity",
+    "name": "2D Camera",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground",
+    "isHeadBindingRenderRoot": false
+  },
+  {
+    "guid": {
+      "a": "7c4acc5f-adc3-00f2-80ab-b0ab82713ea9",
+      "b": ""
+    },
+    "objGuid": "Guid(1893135674164380300, 17128409022316619168)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "295c4fc9-f908-0045-5219-5d22e1cf7ba2",
+      "b": ""
+    },
+    "objGuid": "Guid(9170049448208628006, 13366279647806394266)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "13bf6bbc-edd7-39be-e997-64f632f7bd4c",
+      "b": ""
+    },
+    "objGuid": "Guid(10686156515880664462, 244058450073652388)",
+    "extraType": "ScreenTransform",
+    "name": "ScreenTransform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "linkageScale": 0
+  },
+  {
+    "guid": {
+      "a": "0453cffb-3346-fc39-d68b-df660fb2bdf2",
+      "b": ""
+    },
+    "objGuid": "Guid(5345350119393560266, 3574278730680132496)",
+    "extraType": "ScreenTransform",
+    "name": "ScreenTransform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "linkageScale": 0
+  },
+  {
+    "guid": {
+      "a": "92dd16f3-20d7-ecbf-cad6-62ad024deb65",
+      "b": ""
+    },
+    "objGuid": "Guid(5695513736456208130, 13558451529381016722)",
+    "extraType": "ScreenTransform",
+    "name": "ScreenTransform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "linkageScale": 0
+  },
+  {
+    "guid": {
+      "a": "72581002-f094-3414-3f3a-3575723a0bfd",
+      "b": ""
+    },
+    "objGuid": "Guid(11549392848797476443, 17137851716943038860)",
+    "extraType": "Camera",
+    "name": "Camera",
+    "rttiType": "Camera",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "enableMask": false,
+    "maskTexture": "00000000-0000-0000-0000-000000000802"
+  },
+  {
+    "guid": {
+      "a": "f6d1239b-374f-efce-9304-104132250871",
+      "b": ""
+    },
+    "objGuid": "Guid(5718952834127963291, 5555889468347597222)",
+    "extraType": "Entity",
+    "name": "Segmentation Effects",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "",
+    "isHeadBindingRenderRoot": false
+  },
+  {
+    "guid": {
+      "a": "aafbf25f-2627-59fd-b7f4-79bb473c4c86",
+      "b": ""
+    },
+    "objGuid": "Guid(4883897842668742478, 16286739613163263144)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "5f9a4ad9-ba53-7792-596f-92310729fc52",
+      "b": ""
+    },
+    "objGuid": "Guid(5086079164663460855, 2032738173586491801)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "6f5255ad-6f9e-13e9-e777-d9cf9dc216ec",
+      "b": ""
+    },
+    "objGuid": "Guid(5145450167149687562, 10466138052644157595)",
+    "extraType": "EffectNode",
+    "name": "EffectNode",
+    "rttiType": "EffectNode",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "type": 10,
+    "sortMethod": 1
+  },
+  {
+    "guid": {
+      "a": "4aa65f11-d0dd-d18a-1d5d-08b563f34a1c",
+      "b": ""
+    },
+    "objGuid": "Guid(958055165515519584, 2137566069015930292)",
+    "extraType": "Entity",
+    "name": "2D Foreground Effects",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "",
+    "isHeadBindingRenderRoot": false
+  },
+  {
+    "guid": {
+      "a": "11782b18-a38f-678d-74e6-7fbdc9651791",
+      "b": ""
+    },
+    "objGuid": "Guid(3480712439234725681, 16872487794867458493)",
+    "extraType": "EffectNode",
+    "name": "EffectNode",
+    "rttiType": "EffectNode",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "type": 6,
+    "sortMethod": 1
+  },
+  {
+    "guid": {
+      "a": "88190f85-0390-1672-948d-b1cf8a85e2fd",
+      "b": ""
+    },
+    "objGuid": "Guid(17098364168323081913, 1816368304055025299)",
+    "extraType": "Entity",
+    "name": "Magazine Cover [REPLACE IMAGE]",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground",
+    "isHeadBindingRenderRoot": false
+  },
+  {
+    "guid": {
+      "a": "db37b11b-0385-75ca-5ad0-ee2ee63704b4",
+      "b": ""
+    },
+    "objGuid": "Guid(14432956012129424482, 10766169070191288236)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "d4d2b571-4c83-8de7-df36-58c4d2ea4173",
+      "b": ""
+    },
+    "objGuid": "Guid(4846888242392587026, 3723663854535438236)",
+    "extraType": "Entity",
+    "name": "Screen Image",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground",
+    "isHeadBindingRenderRoot": false
+  },
+  {
+    "guid": {
+      "a": "6c71397b-8258-9611-73df-fa27cb54cc8d",
+      "b": ""
+    },
+    "objGuid": "Guid(5659953914673167545, 959767044027191741)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "8153670c-ecfd-9723-6689-be2549fc30ac",
+      "b": ""
+    },
+    "objGuid": "Guid(4991949678531565142, 7013574601913135801)",
+    "extraType": "Entity",
+    "name": "Screen Image (1)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground",
+    "isHeadBindingRenderRoot": false
+  },
+  {
+    "guid": {
+      "a": "5e1cbd05-e4e6-e7ac-a64b-55ef7794ce1f",
+      "b": ""
+    },
+    "objGuid": "Guid(5467214955597190721, 1906592764195193496)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "93c74756-43dc-3cb4-d417-9be672dcbe1b",
+      "b": ""
+    },
+    "objGuid": "Guid(4630422118401842952, 12430056923507360654)",
+    "extraType": "Entity",
+    "name": "2D Camera",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_segmentation",
+    "isHeadBindingRenderRoot": false
+  },
+  {
+    "guid": {
+      "a": "f9045af0-3c98-37a6-841e-f5160ecebde8",
+      "b": ""
+    },
+    "objGuid": "Guid(4725727920744734948, 14169441644094108066)",
+    "extraType": "Camera",
+    "name": "Camera",
+    "rttiType": "Camera",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "enableMask": false,
+    "maskTexture": "00000000-0000-0000-0000-00000000001e"
+  },
+  {
+    "guid": {
+      "a": "c7abb19e-6424-7cbb-e405-0041e4a03d85",
+      "b": ""
+    },
+    "objGuid": "Guid(5526730144793056964, 13004794044791084990)",
+    "extraType": "PostProcess",
+    "name": "PostProcess",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "postProcessList": [
+      5
+    ]
+  }
+]

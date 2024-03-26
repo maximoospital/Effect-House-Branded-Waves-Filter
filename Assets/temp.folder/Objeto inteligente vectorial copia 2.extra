@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "6ecc7329-709d-cc4a-0a7b-a34c954582bd",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Objeto inteligente vectorial copia 2",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

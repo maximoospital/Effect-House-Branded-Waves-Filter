@@ -1,0 +1,17 @@
+[
+  {
+    "guid": {
+      "a": "450adecd-b1f7-7f0f-fa71-24734a58706d",
+      "b": ""
+    },
+    "extraType": "ResItemRenderTexture",
+    "name": "Render Texture",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "ScreenRenderTexture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "resourceFilePath": "C:\\Users\\user\\AppData\\Local\\Effect House\\Resources\\BuiltinResource\\assets\\rt\\Render Texture.rt"
+  }
+]

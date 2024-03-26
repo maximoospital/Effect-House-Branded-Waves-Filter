@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "282b03b0-bdbb-e22f-539c-7e3265e668cb",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Logo",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "resourceFilePath": "C:\\Users\\user\\Desktop\\Higienol Filter\\Logo-Higienol-ID2023.png",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "6c71331b-b101-c3b1-0f21-ebecbf843cd8",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Overlay",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "resourceFilePath": "C:\\Users\\user\\Desktop\\New folder (2)\\Effect-House-Waves-Filter\\Assets\\temp.folder\\Objeto inteligente vectorial copia 2\\Objeto inteligente vectorial copia 2.png",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]
