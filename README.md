@@ -77,5 +77,3 @@ The branded aspect is really useful for making marketing filters.
 ## Acknowledgements
 
 * [ShaanCoding for the Readme Generator](https://github.com/ShaanCoding/)
-* []()
-* []()
